@@ -1,0 +1,243 @@
+header {
+  height: 50px;
+  width: 100%;
+  background-color: #ffffff;
+  border: 1px black;
+  font-size: 20px;  
+ 
+
+}
+
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: #dd8827;
+text-align: center;
+}
+#imagen1{
+    height: 100px;
+    width: 400px;
+    float: right;
+ margin-top: -100px;
+  
+  }
+
+  nav{
+    height: 40px;
+    width: 100%;
+    background-color: #916821;
+    font-size: 25px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{
+  list-style: none;
+}
+li{
+ display: inline;
+}
+a{
+  text-decoration: none;
+  color: black;
+  margin: 0px 60px 0px 60px;
+}
+a:hover{
+  color: #e9ecee;
+}
+
+#fondo{
+  height: 300px;
+  width: 100%;
+background-image: url(fondo.jpeg);
+background-repeat: no-repeat;
+background-position: center;
+float: left;
+}
+
+.text{
+  color: #e9ecee;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#text2{
+  color: #e9ecee;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+#contebook{
+  height: 800px;
+  width: 100%;
+  background-color: #ffffff;
+  text-align: center;
+}
+.Inicio{
+   font-size: 25px;
+   color: #cf3004;
+   text-align: left;
+  }
+
+.book{
+  height: 300px;
+  width: 200px;
+ margin-left: 50px;
+  margin: 20px 65px 0px 65px;
+display: inline-block;
+  }
+
+  .porBook{
+    height: 270px;
+    width: 100%;
+    
+   
+    }
+
+
+    .medio{
+      background-color: #cf3004;
+      color: #e9ecee;
+      border-radius: 30%;
+      
+     
+      }
+
+
+
+
+      
+
+#contebook2{
+  height: 500px;
+  width: 100%;
+  background-color: #ffffff;
+  overflow-x: scroll;
+  white-space: nowrap;
+  text-align: center;
+
+
+}
+
+
+
+#textfinal{
+  height: 350px;
+  width: 100%;
+  background-color: #ecf5f6;
+  
+
+
+}
+
+  #texto {
+  height: 350px;
+  width: 50%;
+  background-color: #f7f6fc;
+  float: left;
+font-size: 20px;
+
+}
+#imagen{
+  height: 350px;
+  width: 50%;
+  background-color: #e7e2e7;
+float: right;
+ background-image:url(liberiajpeg.jpg) ;
+ background-position: center;
+}
+
+
+
+#primero{
+  color: #cf3004;
+  text-align: left;
+  font-size: 35px;
+}
+#ultimo{
+  color: #cf3004;
+  text-align: center;
+  font-size: 30px;
+
+
+}
+
+footer{
+  height: 500px;
+  width: 100%;
+  background-color: #916821;
+  
+}
+
+
+#primer{
+  height: 500px;
+  width: 33%;
+  background-color: #916821;
+  margin: 0px 2px 0px 3px;
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f7f6fc;
+}
+#segundo{
+  height: 500px;
+  width: 33%;
+  background-color: #916821;
+  margin: 0px 2px 0px 3px;
+  float: right;
+  font-size: 15px;
+  text-align: left; 
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f7f6fc;
+}
+#tercero{
+  height: 500px;
+  width: 33%;
+  margin: 0px 2px 0px 3px;
+  background-color: #916821;
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f7f6fc;
+}
+
+#ubicacion,#telefono,#correo{
+  width: 15px; 
+  height: 15px;
+  float: left;
+  
+}
+
+
+.textoult{
+  color: #faf8f7;
+  text-align: left;
+  font-size: 30px;
+  border-bottom: 1px solid black;
+
+
+}
+
+.parrafo{
+  display: inline;
+
+
+}
+#logos{
+text-align: center;
+
+  
+}
+
+.redes{
+  width: 40px; 
+  height: 40px;
+  margin-top: 20%;
+  
+}
+#busqueda{
+  
+  margin-top: 20px;
+  text-align: center
+  }
